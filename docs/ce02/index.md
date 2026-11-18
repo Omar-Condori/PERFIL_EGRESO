@@ -11,4 +11,3 @@ Sistema **ERP FINANZAS** para Reumacenter: ventas, caja chica, compras, inventar
 | [CE023 - S2 - E3](e3-sistema-funcional-integrado.md) | Sistema de Software Funcional Integrado |
 | [CE024 - S2 - E4](e4-gestion-proyecto-y-calidad.md) | Gestión del Proyecto y Calidad de Software |
 
-Los documentos están en la carpeta `docs/descargas/ce02/` del repositorio.
